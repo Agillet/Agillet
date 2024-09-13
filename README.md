@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working at Tiime<br>🌱 I’m currently learning NextJS<br>⚡ I've never finished a side project
+🔭 Currently working at Tiime<br>🌱 Learning NextJS<br>⚡ Never finished a side project
 
 
 ## 🌐 Socials:
